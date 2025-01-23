@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} SPS Software Solutions. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} neuriOx IT. All rights reserved.</p>
         </div>
       </div>
     </footer>

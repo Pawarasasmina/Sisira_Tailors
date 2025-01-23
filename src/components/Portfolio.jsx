@@ -7,7 +7,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: "https://images.unsplash.com/photo-1576457412208-b8d21be5a35c?w=500&auto=format",
+      src: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format",
       category: "Band Costumes"
     },
     {
@@ -18,17 +18,12 @@ const Portfolio = () => {
     {
       id: 4,
       src: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format",
-      category: "School Uniforms"
+      category: "Office kit"
     },
     {
       id: 5,
       src: "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?w=500&auto=format",
       category: "Band Costumes"
-    },
-    {
-      id: 6,
-      src: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format",
-      category: "Choir Robes"
     },
   ]
 
